@@ -19,7 +19,7 @@ function umclick()
     //alert(score);
     document.getElementById("uscore").innerHTML = "Tienes " + score + " galletas";
 }
-function autosenor();
+function autosenor()
 {
     var point = numsenor*10;
     score = score + point;
